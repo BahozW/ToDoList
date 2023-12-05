@@ -1,6 +1,6 @@
 # To-Do List Web App
 
-This is a README file for a To-Do List web application. The application is built using the following technologies:
+The application is built using the following technologies:
 
 - **Backend**: Developed in C# using .NET Core and hosted in Microsoft Azure. Some authentication have been made so after successfully logging in, i can access the protected endpoints. 
 - **Database**: To persist To-Do items, Azure SQL is used, along with Entity Framework for data access.
